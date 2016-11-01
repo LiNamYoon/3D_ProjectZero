@@ -1,6 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2015
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3D_ProjectZero.CSharp", "3D_ProjectZero.CSharp.csproj", "{0C03C8CE-05E8-4C9F-EA5D-A3FC4DDBE8E1}"
 EndProject
 Global
